@@ -1,0 +1,13 @@
+{
+    "token":,
+    "user":,
+    "content_dirs":["", ""],
+    "userid":[],
+    "allowed":[,,], 
+    "name":"nomebot",
+    "dbname":,
+    "server_uri":,
+    "weather_token":"",
+    "corpus_folder":"./corpus/"
+}
+

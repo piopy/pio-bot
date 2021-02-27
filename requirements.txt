@@ -1,0 +1,10 @@
+telegram==0.0.1
+requests==2.23.0
+google_trans_new==1.1.9
+ChatterBot==1.0.5
+chatterbot-corpus==1.2.0
+pyyaml==3.13
+spacy==2.1.9
+python-telegram-bot==13.1
+bs4
+pyowm
