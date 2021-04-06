@@ -1,11 +1,12 @@
 # pio-bot
  Bot telegram in lingua italiana con chatterbot e comandi utili.
 
-- installare le request con > pip install -r requirements.txt
+- installare le request con 
+> pip install -r requirements.txt
 - fare il deploy su Heroku 
 
 Ovviamente vi servirà:
-- un token instagram
+- un token telegram
 - un database MongoDB
 - un token per il meteo
 - pazienza
