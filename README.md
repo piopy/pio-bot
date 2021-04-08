@@ -1,4 +1,4 @@
-# pio-bot
+# pio-bot (@p_IO_bot on telegram)
  Bot telegram in lingua italiana con chatterbot e comandi utili.
 
 - installare le request con 
