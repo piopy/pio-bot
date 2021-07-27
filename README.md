@@ -1,3 +1,6 @@
+# DISCLAIMER
+ I'm choosing to not update this repo, because some add-ons needs a constant support, that I don't have time to give. Take this code as an example of "how-to-do" scraping ecc.
+
 # pio-bot (@p_IO_bot on telegram)
  Bot telegram in lingua italiana con chatterbot e comandi utili.
 
